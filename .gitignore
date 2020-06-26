@@ -7,5 +7,5 @@
 # Editor backup files
 *~
 
-# rst2html outputs
+# Pandoc outputs
 *.html
